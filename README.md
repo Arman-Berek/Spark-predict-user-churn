@@ -18,15 +18,15 @@ The files in this repository include:
 
 ### Data
 The data entries are the events that user do during a session:
-artist: the artist a user played.
-auth: Status of if the user was logged in.
-firstName: First name of user.
-gender: Gender of user.
-lastName: Last name of user.
-length: length of song.
-level: member level of user (paid or free).
-location: location of user.
-method: HTTP method.
-page: Page type user is on.
-song: Song title.
-ts: Time stamp of entry.
+- artist: the artist a user played.
+- auth: Status of if the user was logged in.
+- firstName: First name of user.
+- gender: Gender of user.
+- lastName: Last name of user.
+- length: length of song.
+- level: member level of user (paid or free).
+- location: location of user.
+- method: HTTP method.
+- page: Page type user is on.
+- song: Song title.
+- ts: Time stamp of entry.
