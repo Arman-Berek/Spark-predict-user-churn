@@ -30,3 +30,6 @@ The data entries are the events that user do during a session:
 - page: Page type user is on.
 - song: Song title.
 - ts: Time stamp of entry.
+
+### Medium Article Link
+https://medium.com/@armanberek/using-pyspark-to-predict-user-churn-6946ec29b6a6
